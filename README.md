@@ -1,0 +1,1 @@
+A React JS-based Employee Management System designed to efficiently manage employee records, handle authentication, and provide a user-friendly interface with full CRUD operations and persistent storage using localStorage.
